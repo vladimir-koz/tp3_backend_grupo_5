@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mercedes-Benz AMG",
+    "categoria": "Venta de vehiculos premium",
+    "precio": 250000,
+    "imagen": "../assets/imgs/AUTO-EN-VENTA.jpg",
+    "resumen": "Unidad premium con asesoramiento personalizado."
+  },
+  {
+    "id": 2,
+    "nombre": "Audi R8",
+    "categoria": "Venta de vehiculos premium",
+    "precio": 280000,
+    "imagen": "../assets/imgs/R8.jpg",
+    "resumen": "Deportivo de alta gama con gestion completa de entrega."
+  },
+  {
+    "id": 3,
+    "nombre": "BMW M",
+    "categoria": "Venta de vehiculos premium",
+    "precio": 210000,
+    "imagen": "../assets/imgs/BMW.jpg",
+    "resumen": "Vehiculo premium con revision documental y tecnica."
+  },
+  {
+    "id": 4,
+    "nombre": "Porsche 911 Carrera",
+    "categoria": "Venta de vehiculos premium",
+    "precio": 310000,
+    "imagen": "../assets/imgs/AUTO-EN-VENTA.jpg",
+    "resumen": "Busqueda personalizada de unidad deportiva."
+  },
+  {
+    "id": 5,
+    "nombre": "Ferrari Portofino",
+    "categoria": "Venta de vehiculos premium",
+    "precio": 390000,
+    "imagen": "../assets/imgs/R8.jpg",
+    "resumen": "Gestion de compra para unidad exclusiva."
+  },
+  {
+    "id": 6,
+    "nombre": "Lamborghini Huracan",
+    "categoria": "Venta de vehiculos premium",
+    "precio": 430000,
+    "imagen": "../assets/imgs/BMW.jpg",
+    "resumen": "Asesoria integral para vehiculo superdeportivo."
+  },
+  {
+    "id": 7,
+    "nombre": "Lavado integral premium",
+    "categoria": "Detailing",
+    "precio": 45000,
+    "imagen": "../assets/imgs/lavado1.jpg",
+    "resumen": "Limpieza interior y exterior para autos de alta gama."
+  },
+  {
+    "id": 8,
+    "nombre": "Encerado y pulido",
+    "categoria": "Detailing",
+    "precio": 70000,
+    "imagen": "../assets/imgs/EnceradoDetailing.jpg",
+    "resumen": "Tratamiento estetico para proteger la carroceria."
+  },
+  {
+    "id": 9,
+    "nombre": "Limpieza profunda de motor",
+    "categoria": "Detailing",
+    "precio": 60000,
+    "imagen": "../assets/imgs/limpieza-motor.jpg",
+    "resumen": "Limpieza detallada del vano motor con productos seguros."
+  },
+  {
+    "id": 10,
+    "nombre": "Tratamiento ceramico",
+    "categoria": "Detailing",
+    "precio": 120000,
+    "imagen": "../assets/imgs/EnceradoDetailing.jpg",
+    "resumen": "Proteccion avanzada para pintura y brillo prolongado."
+  },
+  {
+    "id": 11,
+    "nombre": "Reparacion mecanica especializada",
+    "categoria": "Mantenimiento",
+    "precio": 150000,
+    "imagen": "../assets/imgs/mecanico1.jpg",
+    "resumen": "Servicio tecnico para mecanica de vehiculos premium."
+  },
+  {
+    "id": 12,
+    "nombre": "Diagnostico electronico",
+    "categoria": "Mantenimiento",
+    "precio": 50000,
+    "imagen": "../assets/imgs/scanner.jpg",
+    "resumen": "Escaneo y revision electronica de precision."
+  },
+  {
+    "id": 13,
+    "nombre": "Cambio de aceite premium",
+    "categoria": "Mantenimiento",
+    "precio": 65000,
+    "imagen": "../assets/imgs/cambio-aceite.jpg",
+    "resumen": "Cambio de aceite y filtros con insumos de primera linea."
+  },
+  {
+    "id": 14,
+    "nombre": "Service express",
+    "categoria": "Mantenimiento",
+    "precio": 85000,
+    "imagen": "../assets/imgs/mecanico1.jpg",
+    "resumen": "Revision basica en el dia para unidades seleccionadas."
+  }
+]
