@@ -22,6 +22,13 @@ class Server {
 
   routes() {
     //aca van las rutas
+    this.app.get('/', (req, res) => {
+      res.status(200).json({
+        ok: true,
+        mensaje: 'API Aurum Motors funcionando'
+      })
+    })
+
     this.app.use('/servicios', serviciosRoutes)
     this.app.use('/equipo', equipoRoutes)
     this.app.use((req, res) => {
