@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cambio de Aceite",
+    "imagen": "/assets/servicios/cambio-aceite.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Alineación y Balanceo",
+    "imagen": "/assets/servicios/alineacion.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Lavado Premium",
+    "imagen": "/assets/servicios/lavado-premium.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Pulido Completo",
+    "imagen": "/assets/servicios/pulido.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Tratamiento Cerámico",
+    "imagen": "/assets/servicios/ceramico.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Escaneo Electrónico",
+    "imagen": "/assets/servicios/scanner.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Cambio de Frenos",
+    "imagen": "/assets/servicios/frenos.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Service Completo",
+    "imagen": "/assets/servicios/service.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Revisión Previa VTV",
+    "imagen": "/assets/servicios/vtv.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Polarizado",
+    "imagen": "/assets/servicios/polarizado.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Instalación Multimedia",
+    "imagen": "/assets/servicios/multimedia.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Restauración de Ópticas",
+    "imagen": "/assets/servicios/opticas.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "Ploteo Vehicular",
+    "imagen": "/assets/servicios/ploteo.jpg"
+  }
+]
