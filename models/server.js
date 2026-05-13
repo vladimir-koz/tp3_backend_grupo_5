@@ -2,6 +2,8 @@ require('dotenv').config()
 
 const express = require('express')
 const cors = require('cors')
+const serviciosRoutes = require('../routes/serviciosRoutes')
+const equipoRoutes = require('../routes/equipoRoutes')
 
 class Server {
   constructor() {
@@ -20,7 +22,8 @@ class Server {
 
   routes() {
     //aca van las rutas
-
+    this.app.use('/servicios', serviciosRoutes)
+    this.app.use('/equipo', equipoRoutes)
     this.app.use((req, res) => {
       res.status(404).json({
         ok: false,
