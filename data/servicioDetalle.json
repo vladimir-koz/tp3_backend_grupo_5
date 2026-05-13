@@ -1,114 +1,80 @@
 [
   {
     "id": 1,
-    "servicioId": 1,
-    "descripcion": "Asesoramiento integral para compra de Mercedes-Benz AMG.",
-    "incluye": ["Busqueda de unidad", "Revision documental", "Coordinacion de entrega"],
-    "duracion": "Segun disponibilidad",
-    "garantia": "Acompanamiento comercial durante todo el proceso"
+    "titulo": "Cambio de Aceite",
+    "precio": 25000,
+    "descripcion": "Reemplazo de aceite y filtros para mejorar el rendimiento del motor."
   },
   {
     "id": 2,
-    "servicioId": 2,
-    "descripcion": "Gestion de compra para Audi R8.",
-    "incluye": ["Consulta de stock", "Verificacion tecnica", "Entrega asistida"],
-    "duracion": "Segun disponibilidad",
-    "garantia": "Acompanamiento comercial durante todo el proceso"
+    "titulo": "Alineación y Balanceo",
+    "precio": 32000,
+    "descripcion": "Corrección de alineación y balanceo para una conducción más estable."
   },
   {
     "id": 3,
-    "servicioId": 3,
-    "descripcion": "Venta asesorada de unidades BMW M.",
-    "incluye": ["Asesoria comercial", "Revision tecnica", "Gestion documental"],
-    "duracion": "Segun disponibilidad",
-    "garantia": "Acompanamiento comercial durante todo el proceso"
+    "titulo": "Lavado Premium",
+    "precio": 18000,
+    "descripcion": "Limpieza interior y exterior completa con terminación profesional."
   },
   {
     "id": 4,
-    "servicioId": 4,
-    "descripcion": "Busqueda personalizada de Porsche 911 Carrera.",
-    "incluye": ["Busqueda de unidad", "Comparacion de opciones", "Coordinacion de entrega"],
-    "duracion": "Segun disponibilidad",
-    "garantia": "Acompanamiento comercial durante todo el proceso"
+    "titulo": "Pulido Completo",
+    "precio": 45000,
+    "descripcion": "Pulido de pintura para eliminar marcas y devolver brillo al vehículo."
   },
   {
     "id": 5,
-    "servicioId": 5,
-    "descripcion": "Gestion comercial para Ferrari Portofino.",
-    "incluye": ["Consulta de disponibilidad", "Revision documental", "Entrega asistida"],
-    "duracion": "Segun disponibilidad",
-    "garantia": "Acompanamiento comercial durante todo el proceso"
+    "titulo": "Tratamiento Cerámico",
+    "precio": 120000,
+    "descripcion": "Protección cerámica avanzada para preservar la pintura del auto."
   },
   {
     "id": 6,
-    "servicioId": 6,
-    "descripcion": "Asesoria para compra de Lamborghini Huracan.",
-    "incluye": ["Busqueda personalizada", "Verificacion tecnica", "Gestion documental"],
-    "duracion": "Segun disponibilidad",
-    "garantia": "Acompanamiento comercial durante todo el proceso"
+    "titulo": "Escaneo Electrónico",
+    "precio": 22000,
+    "descripcion": "Diagnóstico computarizado para detectar fallas electrónicas."
   },
   {
     "id": 7,
-    "servicioId": 7,
-    "descripcion": "Lavado integral interior y exterior.",
-    "incluye": ["Limpieza exterior", "Aspirado interior", "Terminacion premium"],
-    "duracion": "4 horas",
-    "garantia": "Control visual al finalizar"
+    "titulo": "Cambio de Frenos",
+    "precio": 55000,
+    "descripcion": "Revisión y reemplazo de pastillas y discos de freno."
   },
   {
     "id": 8,
-    "servicioId": 8,
-    "descripcion": "Encerado y pulido de carroceria.",
-    "incluye": ["Lavado previo", "Pulido", "Aplicacion de cera"],
-    "duracion": "6 horas",
-    "garantia": "Control visual al finalizar"
+    "titulo": "Service Completo",
+    "precio": 98000,
+    "descripcion": "Mantenimiento integral del vehículo con chequeo general."
   },
   {
     "id": 9,
-    "servicioId": 9,
-    "descripcion": "Limpieza profunda de motor.",
-    "incluye": ["Proteccion electrica", "Desengrasado", "Terminacion detallada"],
-    "duracion": "3 horas",
-    "garantia": "Control visual al finalizar"
+    "titulo": "Revisión Previa VTV",
+    "precio": 30000,
+    "descripcion": "Inspección mecánica para asegurar el aprobado en la VTV."
   },
   {
     "id": 10,
-    "servicioId": 10,
-    "descripcion": "Tratamiento ceramico para pintura.",
-    "incluye": ["Preparacion de superficie", "Aplicacion ceramica", "Curado inicial"],
-    "duracion": "1 dia",
-    "garantia": "Control visual al finalizar"
+    "titulo": "Polarizado",
+    "precio": 70000,
+    "descripcion": "Instalación de láminas polarizadas con protección UV."
   },
   {
     "id": 11,
-    "servicioId": 11,
-    "descripcion": "Reparacion mecanica especializada.",
-    "incluye": ["Revision mecanica", "Diagnostico", "Presupuesto tecnico"],
-    "duracion": "Segun diagnostico",
-    "garantia": "Segun trabajo realizado"
+    "titulo": "Instalación Multimedia",
+    "precio": 85000,
+    "descripcion": "Colocación de pantallas y sistemas multimedia modernos."
   },
   {
     "id": 12,
-    "servicioId": 12,
-    "descripcion": "Diagnostico electronico de precision.",
-    "incluye": ["Escaneo", "Informe de fallas", "Recomendaciones tecnicas"],
-    "duracion": "1 hora",
-    "garantia": "Informe tecnico"
+    "titulo": "Restauración de Ópticas",
+    "precio": 28000,
+    "descripcion": "Recuperación de ópticas opacas para mejorar iluminación y estética."
   },
   {
     "id": 13,
-    "servicioId": 13,
-    "descripcion": "Cambio de aceite premium.",
-    "incluye": ["Aceite premium", "Filtro", "Revision de niveles"],
-    "duracion": "2 horas",
-    "garantia": "Control tecnico al finalizar"
-  },
-  {
-    "id": 14,
-    "servicioId": 14,
-    "descripcion": "Service express para revision basica.",
-    "incluye": ["Chequeo general", "Revision de fluidos", "Informe rapido"],
-    "duracion": "En el dia",
-    "garantia": "Informe tecnico"
+    "titulo": "Ploteo Vehicular",
+    "precio": 150000,
+    "descripcion": "Aplicación de vinilos personalizados para renovar el diseño del auto."
   }
 ]
