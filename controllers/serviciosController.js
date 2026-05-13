@@ -24,27 +24,24 @@ async function getServicios(req, res) {
   }
 }
 
-async function getServicioById(req, res) {
+async function getServicioDetalleById(req, res) {
   try {
-    console.log(GET /servicios/${req.params.id})
+    console.log(`GET /servicios/${req.params.id}`)
 
     const id = Number(req.params.id)
-    const servicios = await leerJson('servicios.json')
-    const detalles = await leerJson('serviciosDetalle.json')
-    const servicio = servicios.find((item) => item.id === id)
-    const detalle = detalles.find((item) => item.servicioId === id)
+    
+    const serviciosDetalles = await leerJson('serviciosDetalle.json')
+    const detalle = serviciosDetalles.find((item) => item.id === id)
+    
 
-    if (!servicio) {
+    if (!detalle) {
       return res.status(404).json({
         ok: false,
         mensaje: 'Servicio no encontrado'
       })
     }
 
-    res.status(200).json({
-      ...servicio,
-      detalle
-    })
+    res.status(200).json(detalle)
   } catch (error) {
     console.log(error)
     res.status(500).json({
@@ -56,5 +53,5 @@ async function getServicioById(req, res) {
 
 module.exports = {
   getServicios,
-  getServicioById
+  getServicioDetalleById
 }
