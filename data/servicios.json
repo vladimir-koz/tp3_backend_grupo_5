@@ -2,66 +2,66 @@
     {
         "id": 1,
         "titulo": "Cambio de Aceite",
-        "imagen": "/assets/servicios/cambio-aceite.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/cambio_de_aceite.png"
     },
     {
         "id": 2,
         "titulo": "Alineación y Balanceo",
-        "imagen": "/assets/servicios/alineacion.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/alineacion_y_balanceo.png"
     },
     {
         "id": 3,
         "titulo": "Lavado Premium",
-        "imagen": "/assets/servicios/lavado-premium.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/lavado_premium.png"
     },
     {
         "id": 4,
         "titulo": "Pulido Completo",
-        "imagen": "/assets/servicios/pulido.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/pulido_completo.png"
     },
     {
         "id": 5,
         "titulo": "Tratamiento Cerámico",
-        "imagen": "/assets/servicios/ceramico.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/tratamiento_ceramico.png"
     },
     {
         "id": 6,
         "titulo": "Escaneo Electrónico",
-        "imagen": "/assets/servicios/scanner.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/escaneo_electronico.png"
     },
     {
         "id": 7,
         "titulo": "Cambio de Frenos",
-        "imagen": "/assets/servicios/frenos.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/cambio_de_frenos.png"
     },
     {
         "id": 8,
         "titulo": "Service Completo",
-        "imagen": "/assets/servicios/service.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/service_completo.png"
     },
     {
         "id": 9,
         "titulo": "Revisión Previa VTV",
-        "imagen": "/assets/servicios/vtv.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/revision_previa_vtv.png"
     },
     {
         "id": 10,
         "titulo": "Polarizado",
-        "imagen": "/assets/servicios/polarizado.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/polarizado.png"
     },
     {
         "id": 11,
         "titulo": "Instalación Multimedia",
-        "imagen": "/assets/servicios/multimedia.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/instalacion_multimedia.png"
     },
     {
         "id": 12,
         "titulo": "Restauración de Ópticas",
-        "imagen": "/assets/servicios/opticas.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/restauracion_opticas.png"
     },
     {
         "id": 13,
         "titulo": "Ploteo Vehicular",
-        "imagen": "/assets/servicios/ploteo.jpg"
+        "imagen": "./assets/imgs/servicios-imgs/ploteo.png"
     }
 ]
