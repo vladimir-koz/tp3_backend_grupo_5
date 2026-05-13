@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cambio de Aceite",
+    "precio": 25000,
+    "descripcion": "Reemplazo de aceite y filtros para mejorar el rendimiento del motor."
+  },
+  {
+    "id": 2,
+    "titulo": "Alineación y Balanceo",
+    "precio": 32000,
+    "descripcion": "Corrección de alineación y balanceo para una conducción más estable."
+  },
+  {
+    "id": 3,
+    "titulo": "Lavado Premium",
+    "precio": 18000,
+    "descripcion": "Limpieza interior y exterior completa con terminación profesional."
+  },
+  {
+    "id": 4,
+    "titulo": "Pulido Completo",
+    "precio": 45000,
+    "descripcion": "Pulido de pintura para eliminar marcas y devolver brillo al vehículo."
+  },
+  {
+    "id": 5,
+    "titulo": "Tratamiento Cerámico",
+    "precio": 120000,
+    "descripcion": "Protección cerámica avanzada para preservar la pintura del auto."
+  },
+  {
+    "id": 6,
+    "titulo": "Escaneo Electrónico",
+    "precio": 22000,
+    "descripcion": "Diagnóstico computarizado para detectar fallas electrónicas."
+  },
+  {
+    "id": 7,
+    "titulo": "Cambio de Frenos",
+    "precio": 55000,
+    "descripcion": "Revisión y reemplazo de pastillas y discos de freno."
+  },
+  {
+    "id": 8,
+    "titulo": "Service Completo",
+    "precio": 98000,
+    "descripcion": "Mantenimiento integral del vehículo con chequeo general."
+  },
+  {
+    "id": 9,
+    "titulo": "Revisión Previa VTV",
+    "precio": 30000,
+    "descripcion": "Inspección mecánica para asegurar el aprobado en la VTV."
+  },
+  {
+    "id": 10,
+    "titulo": "Polarizado",
+    "precio": 70000,
+    "descripcion": "Instalación de láminas polarizadas con protección UV."
+  },
+  {
+    "id": 11,
+    "titulo": "Instalación Multimedia",
+    "precio": 85000,
+    "descripcion": "Colocación de pantallas y sistemas multimedia modernos."
+  },
+  {
+    "id": 12,
+    "titulo": "Restauración de Ópticas",
+    "precio": 28000,
+    "descripcion": "Recuperación de ópticas opacas para mejorar iluminación y estética."
+  },
+  {
+    "id": 13,
+    "titulo": "Ploteo Vehicular",
+    "precio": 150000,
+    "descripcion": "Aplicación de vinilos personalizados para renovar el diseño del auto."
+  }
+]

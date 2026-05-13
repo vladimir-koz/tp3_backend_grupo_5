@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "titulo": "Cambio de Aceite",
+        "imagen": "../assets/servicios-imgs/cambio_de_aceite.png"
+    },
+    {
+        "id": 2,
+        "titulo": "Alineación y Balanceo",
+        "imagen": "../assets/servicios-imgs/alineacion_y_balanceo.png"
+    },
+    {
+        "id": 3,
+        "titulo": "Lavado Premium",
+        "imagen": "../assets/servicios-imgs/lavado_premium.png"
+    },
+    {
+        "id": 4,
+        "titulo": "Pulido Completo",
+        "imagen": "../assets/servicios-imgs/pulido_completo.png"
+    },
+    {
+        "id": 5,
+        "titulo": "Tratamiento Cerámico",
+        "imagen": "../assets/servicios-imgs/tratamiento_ceramico.png"
+    },
+    {
+        "id": 6,
+        "titulo": "Escaneo Electrónico",
+        "imagen": "../assets/servicios-imgs/escaneo_electronico.png"
+    },
+    {
+        "id": 7,
+        "titulo": "Cambio de Frenos",
+        "imagen": "../assets/servicios-imgs/cambio_de_frenos.png"
+    },
+    {
+        "id": 8,
+        "titulo": "Service Completo",
+        "imagen": "../assets/servicios-imgs/service_completo.png"
+    },
+    {
+        "id": 9,
+        "titulo": "Revisión Previa VTV",
+        "imagen": "../assets/servicios-imgs/revision_previa_vtv.png"
+    },
+    {
+        "id": 10,
+        "titulo": "Polarizado",
+        "imagen": "../assets/servicios-imgs/polarizado.png"
+    },
+    {
+        "id": 11,
+        "titulo": "Instalación Multimedia",
+        "imagen": "../assets/servicios-imgs/instalacion_multimedia.png"
+    },
+    {
+        "id": 12,
+        "titulo": "Restauración de Ópticas",
+        "imagen": "../assets/servicios-imgs/restauracion_opticas.png"
+    },
+    {
+        "id": 13,
+        "titulo": "Ploteo Vehicular",
+        "imagen": "../assets/servicios-imgs/ploteo.png"
+    }
+]
