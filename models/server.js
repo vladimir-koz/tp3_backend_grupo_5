@@ -4,6 +4,8 @@ const express = require('express')
 const cors = require('cors')
 const serviciosRoutes = require('../routes/serviciosRoutes')
 const equipoRoutes = require('../routes/equipoRoutes')
+const perfilRoutes = require('../routes/perfilRoutes')
+const authRoutes = require('../routes/authRoutes')
 
 class Server {
   constructor() {
@@ -31,6 +33,9 @@ class Server {
 
     this.app.use('/servicios', serviciosRoutes)
     this.app.use('/equipo', equipoRoutes)
+    this.app.use('/perfil', perfilRoutes)
+    this.app.use('/login', authRoutes)
+    
     this.app.use((req, res) => {
       res.status(404).json({
         ok: false,

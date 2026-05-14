@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Vladimir Kozik",
+    "usuario": "vladimir",
+    "password": "1234",
+    "mail": "vladimir@aurummotors.com",
+    "fechaRegistro": "2026-05-01",
+    "foto": "../assets/imgs/modelo1.jpg",
+    "ultimosPedidos": [
+      "Cotizacion BMW M",
+      "Consulta Audi R8",
+      "Service express"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Cliente Aurum",
+    "usuario": "cliente",
+    "password": "1234",
+    "fechaRegistro": "2026-05-04",
+    "foto": "../assets/imgs/modelo2.jpg",
+    "ultimosPedidos": [
+      "Lavado integral premium",
+      "Diagnostico electronico",
+      "Cambio de aceite premium"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Laureano Kronemberger",
+    "usuario": "laureanok",
+    "password": "2345",
+    "fechaRegistro": "2026-05-04",
+    "foto": "../assets/imgs/modelo2.jpg",
+    "ultimosPedidos": [
+      "Lavado integral premium",
+      "Diagnostico electronico",
+      "Cambio de aceite premium"
+    ]
+  }
+]
