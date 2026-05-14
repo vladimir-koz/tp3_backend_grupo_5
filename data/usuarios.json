@@ -15,9 +15,10 @@
   },
   {
     "id": 2,
-    "nombre": "Cliente Aurum",
-    "usuario": "cliente",
+    "nombre": "Felipe Peña",
+    "usuario": "fpeña",
     "password": "1234",
+    "mail": "felipepeña@aurummotors.com",
     "fechaRegistro": "2026-05-04",
     "foto": "../assets/imgs/modelo2.jpg",
     "ultimosPedidos": [
@@ -28,11 +29,12 @@
   },
   {
     "id": 3,
-    "nombre": "Laureano Kronemberger",
-    "usuario": "laureanok",
+    "nombre": "Esther Garcia",
+    "usuario": "estherg",
+    "mail": "esthergarcia@aurummotors.com",
     "password": "2345",
     "fechaRegistro": "2026-05-04",
-    "foto": "../assets/imgs/modelo2.jpg",
+    "foto": "../assets/imgs/modelo3.jpg",
     "ultimosPedidos": [
       "Lavado integral premium",
       "Diagnostico electronico",
